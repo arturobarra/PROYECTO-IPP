@@ -1,2 +1,6 @@
 1. crear el repo local (directorio / file.py)
 inicializacion el repo local = git
+crear repo online
+sincronozar con el repo en gitgud = echo "# PROYECTO-IPP" >> README.md
+crear ambiente virtual
+git push -u origin main
